@@ -46,6 +46,7 @@ Docker image to check if TLS is implemented with a QWAC certificate.
         102:d=4  hl=2 l=   2 prim: PRINTABLESTRING   :en
         -----END https://my.qwac.example.com -----
 
+    otherwise
 
         -----BEGIN https://my.other.qwac.example.com -----
         Error: offset out of range
